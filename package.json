@@ -69,6 +69,6 @@
     "testEnvironment": "node"
   },
   "overrides": {
-    "minimist": "1.2.6"
+    "minimist": "^1.2.6"
   }
 }
